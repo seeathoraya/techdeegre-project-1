@@ -1,1 +1,1 @@
-# techdeegre-project-1
+# Techdeegre Project 1
