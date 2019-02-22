@@ -124,6 +124,10 @@ ul.skills {
   background: #0399ff;
 }
 
+.experience li {
+  margin-bottom: 10px;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
